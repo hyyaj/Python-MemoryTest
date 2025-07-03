@@ -1,6 +1,6 @@
 This is a Python-based memory test game.
 It challenges users to remember and repeat sequences of colored squares shown briefly on screen. The game progressively increases in difficulty.
----
+
 
 
 Technologies Used
